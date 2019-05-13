@@ -1,6 +1,6 @@
 # a_star_search
 A* Search on an ASCII board written in C++
-![]<img src="example.PNG" alt="example" height="500"/>
+!<img src="example.PNG" alt="example" height="300"/>
 
 The A* search is widely used in map applications for pathfinding. In this example, we feed the program a board with ASCII obstacles, a start and a goal.  
 
